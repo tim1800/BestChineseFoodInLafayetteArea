@@ -2,4 +2,16 @@
     <string name="app_name">Best Chinese Food In Lafayette Area</string>
     <string name="imgKongpao">Kongpao Image</string>
     <string name="txtSplash">Best Chinese Food in Lafayette Area</string>
+    <string name="btnFood1">1. New Cheng Du</string>
+    <string name="btnFood2">2. Fu Lam</string>
+    <string name="btnFood3">3. C &amp; T Market</string>
+    <string name="btnFood4">4. Ichiban Sichuan</string>
+    <string name="btnFood5">5. Rice Cafe</string>
+    <string name="btnFood6">6. Lin\'s Wok</string>
+    <string name="Food1">img1</string>
+    <string name="Food2">img2</string>
+    <string name="Food3">img3</string>
+    <string name="Food4">img4</string>
+    <string name="Food5">img5</string>
+    <string name="Food6">img6</string>
 </resources>
