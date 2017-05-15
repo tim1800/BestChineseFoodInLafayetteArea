@@ -14,4 +14,5 @@
     <string name="Food4">img4</string>
     <string name="Food5">img5</string>
     <string name="Food6">img6</string>
+    <string name="btnYelp">See details on Yelp</string>
 </resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745459970181",
+    "firebase_url": "https://bestchinesefoodinlafayettearea.firebaseio.com",
+    "project_id": "bestchinesefoodinlafayettearea",
+    "storage_bucket": "bestchinesefoodinlafayettearea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745459970181:android:034dae3bee368baa",
+        "android_client_info": {
+          "package_name": "com.bestchinesefoodinlafayettearea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745459970181-t8mbaearn5185vvsjmmaa3mm3g19k2kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXb_7PVfgez6o-rcWeJC26gWDF3J7cCSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
